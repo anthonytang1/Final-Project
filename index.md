@@ -1,6 +1,6 @@
 ## Welcome to the Aging Biomarkers Project Page
 
-[Read our paper here](https://docs.google.com/document/d/1K5FAr16iS9lNX2tHas6twRoG6rrWCe8i8P9aBhThxbM/edit?usp=sharing)
+[Read our paper here](https://drive.google.com/file/d/1aNw-6gyf3B6FF6UnzEx6UJ-AMjltfU-j/view?usp=sharing)
 
 ### Questions or Comments?
 
